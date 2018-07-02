@@ -3,8 +3,8 @@
 This repository contains the code for the [LocalCoinSwap](https://www.localcoinswap.com/) cryptoshares.
 
 # Authors
-Taylor Scheel
-Nathan Worsley
+- Taylor Scheel
+- Nathan Worsley
 
 ## Usage
 
