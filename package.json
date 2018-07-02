@@ -1,0 +1,25 @@
+{
+  "name": "lcs-cryptoshares",
+  "version": "1.0.0",
+  "description": "Cryptoshares for the LocalCoinSwap ICO",
+  "main": "truffle.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LocalCoinSwap/cryptoshares.git"
+  },
+  "keywords": [
+    "ethereum",
+    "ico",
+    "localcoinswap",
+    "cryptoshares"
+  ],
+  "author": "LocalCoinSwap",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/LocalCoinSwap/cryptoshares/issues"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "1.6.0"
+  },
+  "homepage": "https://github.com/LocalCoinSwap/cryptoshares#readme"
+}
